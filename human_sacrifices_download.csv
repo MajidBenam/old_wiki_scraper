@@ -1,0 +1,400 @@
+variable_name,year_from,year_to,polity_name,polity_new_ID,polity_old_ID,human_sacrifice_abbr,human_sacrifice_long,confidence,is_disputed,expert_checked,DRB_reviewed
+human_sacrifice,-9600,-7101,Konya Plain - Early Neolithic (tr_konya_enl),tr_konya_enl,TrNeoER,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-7800,-7201,Pre-Ceramic Period (ir_susiana_pre_ceramic),ir_susiana_pre_ceramic,IrPrCer,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-7200,-7001,Formative Period (ir_susiana_formative),ir_susiana_formative,IrForma,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-7100,-7001,Konya Plain - Early Neolithic (tr_konya_enl),tr_konya_enl,TrNeoER,A,Absent,Inferred,False,True,False
+human_sacrifice,-7000,-6601,Konya Plain - Ceramic Neolithic (tr_konya_mnl),tr_konya_mnl,TrNeoCR,A,Absent,Inferred,False,True,False
+human_sacrifice,-7000,-6001,Susiana - Muhammad Jaffar (ir_susiana_archaic),ir_susiana_archaic,IrArcha,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-7000,-3001,Neolithic Crete (gr_crete_nl),gr_crete_nl,GrCrNeo,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-6600,-6001,Konya Plain - Late Neolithic (tr_konya_lnl),tr_konya_lnl,TrNeoLT,A,Absent,Inferred,False,True,False
+human_sacrifice,-6000,-5701,Susiana A (ir_susiana_a),ir_susiana_a,IrKhzE*,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-6000,-5501,Konya Plain - Early Chalcolithic (tr_konya_eca),tr_konya_eca,TrClcER,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-5700,-5101,Susiana B (ir_susiana_b),ir_susiana_b,IrKhzEM,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-5500,-5001,GapKP1,,GapKP1,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-5500,-4001,Kachi Plain - Ceramic Neolithic (pk_kachi_lnl),pk_kachi_lnl,PkCeraN,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-5100,-4701,Susiana - Early Ubaid (ir_susiana_ubaid_1),ir_susiana_ubaid_1,IrKhzM*,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-5000,-3501,Yangshao (cn_yangshao),cn_yangshao,CnYngsh,A,Absent,Inferred,False,True,False
+human_sacrifice,-5000,-3001,Konya Plain - Late Chalcolithic (tr_konya_lca),tr_konya_lca,TrClcLT,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-4700,-4301,Susiana - Late Ubaid (ir_susiana_ubaid_2),ir_susiana_ubaid_2,IrKhzL*,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-4300,-3801,Susa I (ir_susa_1),ir_susa_1,IrSusa1,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-4000,-3201,Kachi Plain - Chalcolithic (pk_kachi_ca),pk_kachi_ca,PkChalc,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-3800,-3551,Naqada I (eg_naqada_1),eg_naqada_1,EgNaqa1,A,Absent,Inferred,False,True,False
+human_sacrifice,-3800,-3101,Susa II (ir_susa_2),ir_susa_2,IrSusa2,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-3600,-1801,Latium - Copper Age (it_latium_ca),it_latium_ca,ItLatCA,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-3500,-3001,Yangshao (cn_yangshao),cn_yangshao,CnYngsh,P,Present,Inferred,False,True,False
+human_sacrifice,-3500,-2001,Sarazm (tj_sarasm),tj_sarasm,TjSaraz,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-3300,-3101,Egypt - Dynasty 0 (eg_naqada_3),eg_naqada_3,EgNaqa3,A,Absent,Evidenced,True,,
+human_sacrifice,-3300,-3101,Egypt - Dynasty 0 (eg_naqada_3),eg_naqada_3,EgNaqa3,A,Absent,Evidenced,True,False,False
+human_sacrifice,-3300,-3101,Egypt - Dynasty 0 (eg_naqada_3),eg_naqada_3,EgNaqa3,P,Present,Evidenced,True,,
+human_sacrifice,-3300,-3101,Egypt - Dynasty 0 (eg_naqada_3),eg_naqada_3,EgNaqa3,P,Present,Evidenced,True,,
+human_sacrifice,-3200,-2501,Kachi Plain - Pre-Urban Period (pk_kachi_pre_urban),pk_kachi_pre_urban,PkPreUr,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-3200,-2301,Beaker Culture (fr_beaker_eba),fr_beaker_eba,FrBeakr,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-3100,-2901,Egypt - Dynasty I (eg_dynasty_1),eg_dynasty_1,EgDyn1*,P,Present,Evidenced,False,True,False
+human_sacrifice,-3100,-2676,Susa III (ir_susa_3),ir_susa_3,IrSusa3,A,Absent,Inferred,False,True,False
+human_sacrifice,-3000,-2901,Konya Plain - Early Bronze Age (tr_konya_eba),tr_konya_eba,TrBrzER,P,Present,Inferred,False,True,False
+human_sacrifice,-3000,-1901,Prepalatial Crete (gr_crete_pre_palace),gr_crete_pre_palace,GrCrPre,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-3000,-1900,Longshan (cn_longshan),cn_longshan,CnLngsh,P,Present,Evidenced,False,True,False
+human_sacrifice,-2900,-2651,Egypt - Dynasty II (eg_dynasty_2),eg_dynasty_2,EgDyn2*,P,Present,Evidenced,True,,
+human_sacrifice,-2900,-2651,Egypt - Dynasty II (eg_dynasty_2),eg_dynasty_2,EgDyn2*,A,Absent,Evidenced,True,,
+human_sacrifice,-2900,-2001,Konya Plain - Early Bronze Age (tr_konya_eba),tr_konya_eba,TrBrzER,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-2700,-1201,Deccan - Neolithic (in_deccan_nl),in_deccan_nl,InDecNL,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-2675,-2251,Elam - Awan Dynasty I (ir_elam_1),ir_elam_1,IrAwanE,A,Absent,Inferred,False,True,False
+human_sacrifice,-2650,-2351,Egypt - Classic Old Kingdom (eg_old_k_1),eg_old_k_1,EgOldK1,A,Absent,Inferred,False,True,False
+human_sacrifice,-2500,-2101,Kachi Plain - Urban Period I (pk_kachi_urban_1),pk_kachi_urban_1,PkUrbn1,A,Absent,Inferred,False,True,False
+human_sacrifice,-2350,-2151,Egypt - Late Old Kingdom (eg_old_k_2),eg_old_k_2,EgOldK2,A,Absent,Inferred,False,True,False
+human_sacrifice,-2300,-2201,Beaker Culture (fr_beaker_eba),fr_beaker_eba,FrBeakr,A,Absent,Evidenced,True,,
+human_sacrifice,-2300,-2201,Beaker Culture (fr_beaker_eba),fr_beaker_eba,FrBeakr,P,Present,Evidenced,True,,
+human_sacrifice,-2250,-2113,Akkadian Empire (iq_akkad_emp),iq_akkad_emp,IqAkkad,A,Absent,Evidenced,True,,
+human_sacrifice,-2250,-2113,Akkadian Empire (iq_akkad_emp),iq_akkad_emp,IqAkkad,P,Present,Evidenced,True,,
+human_sacrifice,-2200,-1001,Atlantic Complex (fr_atlantic_complex),fr_atlantic_complex,FrAtlBA,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-2150,-2017,Egypt - Period of the Regions (eg_regions),eg_regions,EgRegns,A,Absent,Evidenced,True,,
+human_sacrifice,-2150,-2017,Egypt - Period of the Regions (eg_regions),eg_regions,EgRegns,P,Present,Evidenced,True,,
+human_sacrifice,-2112,-2029,Ur - Dynasty III (iq_ur_dyn_3),iq_ur_dyn_3,IqUrIII,P,Present,Evidenced,False,True,False
+human_sacrifice,-2100,-1801,Kachi Plain - Urban Period II (pk_kachi_urban_2),pk_kachi_urban_2,PkUrbn2,A,Absent,Inferred,False,True,False
+human_sacrifice,-2028,-1901,Elam - Shimashki Period (ir_elam_2),ir_elam_2,IrShima,A,Absent,Inferred,False,True,False
+human_sacrifice,-2016,-1721,Egypt - Middle Kingdom (eg_middle_k),eg_middle_k,EgMidKg,P,Present,Inferred,False,True,False
+human_sacrifice,-2000,-1701,Middle Bronze Age in Central Anatolia (tr_central_anatolia_mba),tr_central_anatolia_mba,TrBrzMD,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-2000,-1401,Andronovo (kz_andronovo),kz_andronovo,KzAndro,A,Absent,Inferred,False,True,False
+human_sacrifice,-2000,-1181,Canaan (il_canaan),il_canaan,IlCanaa,P,Present,Evidenced,False,True,False
+human_sacrifice,-1900,-1701,The Old Palace Crete (gr_crete_old_palace),gr_crete_old_palace,GrCrOPa,P,Present,Evidenced,True,,
+human_sacrifice,-1900,-1701,Elam - Early Sukkalmah (ir_elam_3),ir_elam_3,IrSukkE,A,Absent,Inferred,False,True,False
+human_sacrifice,-1900,-1701,The Old Palace Crete (gr_crete_old_palace),gr_crete_old_palace,GrCrOPa,A,Absent,Evidenced,True,,
+human_sacrifice,-1850,-1651,Erlitou (cn_erlitou),cn_erlitou,CnErlit,P,Present,Evidenced,False,True,False
+human_sacrifice,-1800,-1301,Kachi Plain - Post-Urban Period (pk_kachi_post_urban),pk_kachi_post_urban,PkPostU,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-1800,-1001,Latium - Bronze Age (it_latium_ba),it_latium_ba,ItLatBA,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-1720,-1567,Egypt - Thebes-Hyksos Period (eg_thebes_hyksos),eg_thebes_hyksos,EgThebH,A,Absent,Evidenced,False,True,False
+human_sacrifice,-1700,-1501,Elam - Late Sukkalmah (ir_elam_4),ir_elam_4,IrSukkL,A,Absent,Inferred,False,True,False
+human_sacrifice,-1700,-1451,New Palace Crete (gr_crete_new_palace),gr_crete_new_palace,GrCrNPa,P,Present,Evidenced,True,,
+human_sacrifice,-1700,-1451,New Palace Crete (gr_crete_new_palace),gr_crete_new_palace,GrCrNPa,A,Absent,Evidenced,True,,
+human_sacrifice,-1650,-1501,Hatti - Old Kingdom (tr_hatti_old_k),tr_hatti_old_k,TrHatOK,P,Present,Evidenced,True,,
+human_sacrifice,-1650,-1501,Hatti - Old Kingdom (tr_hatti_old_k),tr_hatti_old_k,TrHatOK,A,Absent,Evidenced,True,,
+human_sacrifice,-1650,-1251,Erligang (cn_erligang),cn_erligang,CnErlig,P,Present,Evidenced,False,True,False
+human_sacrifice,-1550,-1294,Egypt - New Kingdom Thutmosid Period (eg_new_k_1),eg_new_k_1,EgNKThu,A,Absent,Inferred,False,True,False
+human_sacrifice,-1500,-1401,Elam - Kidinuid Period (ir_elam_5),ir_elam_5,IrMElm1,P,Present,Inferred,False,True,False
+human_sacrifice,-1500,-1400,Konya Plain - Late Bronze Age II (tr_konya_lba),tr_konya_lba,TrBrzL2,P,Present,Evidenced,True,,
+human_sacrifice,-1500,-1400,Konya Plain - Late Bronze Age II (tr_konya_lba),tr_konya_lba,TrBrzL2,A,Absent,Evidenced,True,,
+human_sacrifice,-1450,-1301,Monopalatial Crete (gr_crete_mono_palace),gr_crete_mono_palace,GrCrMPa,A,Absent,Evidenced,True,,
+human_sacrifice,-1450,-1301,Monopalatial Crete (gr_crete_mono_palace),gr_crete_mono_palace,GrCrMPa,P,Present,Evidenced,True,,
+human_sacrifice,-1400,-1201,Elam - Igihalkid Period (ir_elam_6),ir_elam_6,IrMElm2,A,Absent,Inferred,False,True,False
+human_sacrifice,-1400,-1151,Oaxaca - Tierras Largas (mx_tierras_largas),mx_tierras_largas,MxTieLa,A,Absent,Inferred,False,True,False
+human_sacrifice,-1400,-1000,Koktepe I (uz_koktepe_1),uz_koktepe_1,UzKok01,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-1400,-400,Early Xiongnu (mn_hunnu_early),mn_hunnu_early,MnXngnE,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-1344,-1181,Hatti - New Kingdom (tr_hatti_new_k),tr_hatti_new_k,TrHatNK,A,Absent,Evidenced,True,,
+human_sacrifice,-1344,-1181,Hatti - New Kingdom (tr_hatti_new_k),tr_hatti_new_k,TrHatNK,P,Present,Evidenced,True,,
+human_sacrifice,-1300,-1201,Postpalatial Crete (gr_crete_post_palace_1),gr_crete_post_palace_1,GrCrPPa,P,Present,Evidenced,False,True,False
+human_sacrifice,-1300,-551,Kachi Plain - Proto-Historic Period (pk_kachi_proto_historic),pk_kachi_proto_historic,PkProto,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-1293,-1071,Egypt - New Kingdom Ramesside Period (eg_new_k_2),eg_new_k_2,EgNKRam,A,Absent,Inferred,False,True,False
+human_sacrifice,-1250,-1123,Late Shang (cn_late_shang_dyn),cn_late_shang_dyn,CnShang,P,Present,Evidenced,False,True,False
+human_sacrifice,-1200,-1101,Elam - Shutrukid Period (ir_elam_7),ir_elam_7,IrMElm3,A,Absent,Inferred,False,True,False
+human_sacrifice,-1200,-1001,Final Postpalatial Crete (gr_crete_post_palace_2),gr_crete_post_palace_2,GrCrFPa,P,Present,Evidenced,False,True,False
+human_sacrifice,-1200,-300,Deccan - Iron Age (in_deccan_ia),in_deccan_ia,InDecIA,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-1180,-1031,Phoenician Empire (lb_kenaan),lb_kenaan,LbAcPho,P,Present,Inferred,False,True,False
+human_sacrifice,-1180,-901,Neo-Hittite Kingdom (tr_neo_hittite_k),tr_neo_hittite_k,TrNHitt,P,Present,Evidenced,True,,
+human_sacrifice,-1180,-901,Neo-Hittite Kingdom (tr_neo_hittite_k),tr_neo_hittite_k,TrNHitt,A,Absent,Evidenced,True,,
+human_sacrifice,-1150,-701,Oaxaca - San Jose (mx_san_jose),mx_san_jose,MxSanGu,A,Absent,Inferred,False,True,False
+human_sacrifice,-1122,-795,Western Zhou (cn_western_zhou_dyn),cn_western_zhou_dyn,CnWZhou,P,Present,Evidenced,False,True,False
+human_sacrifice,-1100,-901,Elam - Crisis Period (ir_elam_8),ir_elam_8,IrElmCP,A,Absent,Inferred,False,True,False
+human_sacrifice,-1070,-761,Egypt - Thebes-Libyan Period (eg_thebes_libyan),eg_thebes_libyan,EgThebL,A,Absent,Evidenced,True,,
+human_sacrifice,-1070,-761,Egypt - Thebes-Libyan Period (eg_thebes_libyan),eg_thebes_libyan,EgThebL,P,Present,Evidenced,True,,
+human_sacrifice,-1030,-722,Yisrael (il_yisrael),il_yisrael,IlYisrl,P,Present,Inferred,False,True,False
+human_sacrifice,-1000,-901,Hallstatt A-B1 (fr_hallstatt_a_b1),fr_hallstatt_a_b1,FrHallA,P,Present,Evidenced,True,,
+human_sacrifice,-1000,-901,Hallstatt A-B1 (fr_hallstatt_a_b1),fr_hallstatt_a_b1,FrHallA,A,Absent,Evidenced,True,,
+human_sacrifice,-1000,-717,Latium - Iron Age (it_latium_ia),it_latium_ia,ItLatIA,A,Absent,Evidenced,True,,
+human_sacrifice,-1000,-717,Latium - Iron Age (it_latium_ia),it_latium_ia,ItLatIA,P,Present,Evidenced,True,,
+human_sacrifice,-1000,-711,Geometric Crete (gr_crete_geometric),gr_crete_geometric,GrCrGeo,P,Present,Evidenced,True,,
+human_sacrifice,-1000,-711,Geometric Crete (gr_crete_geometric),gr_crete_geometric,GrCrGeo,A,Absent,Evidenced,True,,
+human_sacrifice,-999,-751,Ancient Khwarazm (uz_khwarasm_1),uz_khwarasm_1,UzKhw01,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-900,-744,Elam I (ir_neo_elam_1),ir_neo_elam_1,IrNElm1,A,Absent,Inferred,False,True,False
+human_sacrifice,-900,-701,Hallstatt B2-3 (fr_hallstatt_b2_3),fr_hallstatt_b2_3,FrHallB,P,Present,Evidenced,True,,
+human_sacrifice,-900,-701,Hallstatt B2-3 (fr_hallstatt_b2_3),fr_hallstatt_b2_3,FrHallB,A,Absent,Evidenced,True,,
+human_sacrifice,-900,-696,Phyrgian Kingdom (tr_phrygian_k),tr_phrygian_k,TrPhryg,A,Absent,Inferred,False,True,False
+human_sacrifice,-794,-489,Jin (cn_jin_dyn_spring_and_autumn),cn_jin_dyn_spring_and_autumn,CnJinSA,P,Present,Evidenced,False,True,False
+human_sacrifice,-760,-665,Egypt - Kushite Period (eg_kushite),eg_kushite,SdKusht,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-750,-600,Koktepe II (uz_koktepe_2),uz_koktepe_2,UzKok02,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-743,-647,Elam II (ir_neo_elam_2),ir_neo_elam_2,IrNElm2,A,Absent,Inferred,False,True,False
+human_sacrifice,-721,-539,Neo-Assyrian Empire (iq_neo_assyrian_emp),iq_neo_assyrian_emp,IqNAssr,P,Present,Inferred,False,True,False
+human_sacrifice,-716,-510,Roman Kingdom (it_roman_k),it_roman_k,ItRomRg,P,Present,Evidenced,True,,
+human_sacrifice,-716,-510,Roman Kingdom (it_roman_k),it_roman_k,ItRomRg,A,Absent,Evidenced,True,,
+human_sacrifice,-710,-501,Archaic Crete (gr_crete_archaic),gr_crete_archaic,GrCrArc,A,Absent,Evidenced,True,,
+human_sacrifice,-710,-501,Archaic Crete (gr_crete_archaic),gr_crete_archaic,GrCrArc,P,Present,Evidenced,True,,
+human_sacrifice,-700,-601,Hallstatt C (fr_hallstatt_c),fr_hallstatt_c,FrHallC,P,Present,Evidenced,True,,
+human_sacrifice,-700,-601,Hallstatt C (fr_hallstatt_c),fr_hallstatt_c,FrHallC,A,Absent,Evidenced,True,,
+human_sacrifice,-700,-501,Oaxaca - Rosario (mx_rosario),mx_rosario,MxRosar,P,Present,Evidenced,False,True,False
+human_sacrifice,-670,-547,Lydian Kingdom (tr_lydian_k),tr_lydian_k,TrLydia,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-664,-526,Egypt - Saite Period (eg_saite),eg_saite,EgSaite,A,Absent,Inferred,False,True,False
+human_sacrifice,-612,-540,Elam III (ir_neo_elam_3),ir_neo_elam_3,IrNElm3,A,Absent,Inferred,False,True,False
+human_sacrifice,-600,-475,Hallstatt D (fr_hallstatt_d),fr_hallstatt_d,FrHallD,P,Present,Inferred,False,True,False
+human_sacrifice,-600,-325,Mahajanapada era (in_mahajanapada),in_mahajanapada,InMahaJ,A,Absent,Inferred,False,True,False
+human_sacrifice,-600,-151,Cahokia - Early Woodland (us_woodland_1),us_woodland_1,USMisEW,A,Absent,Inferred,False,True,False
+human_sacrifice,-550,-329,Achaemenid Empire (ir_achaemenid_emp),ir_achaemenid_emp,IrAchae,A,Absent,Inferred,False,True,False
+human_sacrifice,-546,-334,Achaemenid Empire (ir_achaemenid_emp),ir_achaemenid_emp,IrAchae,A,Absent,Inferred,False,True,False
+human_sacrifice,-539,-334,Achaemenid Empire (ir_achaemenid_emp),ir_achaemenid_emp,IrAchae,A,Absent,Inferred,False,True,False
+human_sacrifice,-538,-331,Achaemenid Empire (ir_achaemenid_emp),ir_achaemenid_emp,IrAchae,A,Absent,Evidenced,False,True,False
+human_sacrifice,-525,-405,Achaemenid Empire (ir_achaemenid_emp),ir_achaemenid_emp,IrAchae,A,Absent,Inferred,False,True,False
+human_sacrifice,-520,-330,Achaemenid Empire (ir_achaemenid_emp),ir_achaemenid_emp,IrAchae,A,Absent,Inferred,False,True,False
+human_sacrifice,-509,-265,Roman Republic (it_roman_rep_1),it_roman_rep_1,ItRomER,P,Present,Evidenced,False,True,False
+human_sacrifice,-500,-322,Classical Crete (gr_crete_classical),gr_crete_classical,GrCrCls,A,Absent,Evidenced,False,True,False
+human_sacrifice,-500,-301,Early Monte Alban I (mx_monte_alban_1_early),mx_monte_alban_1_early,MxAlb1E,P,Present,Evidenced,False,True,False
+human_sacrifice,-488,-223,Chu Kingdom - Warring States Period (cn_chu_k_warring_states),cn_chu_k_warring_states,CnChuWS,P,Present,Evidenced,False,True,False
+human_sacrifice,-474,-325,La Tene A-B1 (fr_la_tene_a_b1),fr_la_tene_a_b1,FrTeneA,P,Present,Evidenced,False,True,False
+human_sacrifice,-404,-343,Egypt - Inter-Occupation Period (eg_inter_occupation),eg_inter_occupation,EgIntOc,A,Absent,Inferred,False,True,False
+human_sacrifice,-400,499,Java - Buni Culture (id_buni),id_buni,IdCJBun,U,Unknown,Evidenced,False,True,True
+human_sacrifice,-399,-300,Early Xiongnu (mn_hunnu_early),mn_hunnu_early,MnXngnE,P,Present,Inferred,False,True,False
+human_sacrifice,-324,-175,La Tene B2-C1 (fr_la_tene_b2_c1),fr_la_tene_b2_c1,FrTeneB,P,Present,Evidenced,False,True,False
+human_sacrifice,-323,-69,Hellenistic Crete (gr_crete_hellenistic),gr_crete_hellenistic,GrCrHel,A,Absent,Evidenced,False,True,False
+human_sacrifice,-312,-144,Seleucids (ir_seleucid_emp),ir_seleucid_emp,IrSeleu,A,Absent,Inferred,False,True,False
+human_sacrifice,-305,-218,Ptolemaic Kingdom I (eg_ptolemaic_k_1),eg_ptolemaic_k_1,EgPtol1,A,Absent,Inferred,False,True,False
+human_sacrifice,-303,-194,Maurya Empire (in_mauryan_emp),in_mauryan_emp,InMaury,A,Absent,Evidenced,False,True,False
+human_sacrifice,-300,-282,Lysimachus Kingdom (tr_lysimachus_k),tr_lysimachus_k,TrLysim,A,Absent,Inferred,False,True,False
+human_sacrifice,-300,-249,Seleucids (ir_seleucid_emp),ir_seleucid_emp,IrSeleu,A,Absent,Inferred,False,True,False
+human_sacrifice,-300,-199,Ptolemaic Kingdom I (eg_ptolemaic_k_1),eg_ptolemaic_k_1,EgPtol1,A,Absent,Evidenced,False,True,False
+human_sacrifice,-300,-101,Monte Alban Late I (mx_monte_alban_1_late),mx_monte_alban_1_late,MxAlb1L,P,Present,Evidenced,False,True,False
+human_sacrifice,-300,249,Kansai - Yayoi Period (jp_yayoi),jp_yayoi,JpYayoi,A,Absent,Inferred,False,True,False
+human_sacrifice,-281,-190,Seleucids (ir_seleucid_emp),ir_seleucid_emp,IrSeleu,A,Absent,Inferred,False,True,False
+human_sacrifice,-264,-134,Middle Roman Republic (it_roman_rep_2),it_roman_rep_2,ItRomMR,P,Present,Evidenced,False,True,False
+human_sacrifice,-250,49,Jenne-jeno I (ml_jenne_jeno_1),ml_jenne_jeno_1,MlJeJe1,U,Unknown,Evidenced,False,True,False
+human_sacrifice,-248,-130,Greco-Bactrian Kingdom (af_greco_bactrian_k),af_greco_bactrian_k,AfGrBct,A,Absent,Inferred,False,True,False
+human_sacrifice,-217,-32,Ptolemaic Kingdom II (eg_ptolemaic_k_2),eg_ptolemaic_k_2,EgPtol2,A,Absent,Evidenced,False,True,False
+human_sacrifice,-209,-60,Xiongnu Imperial Confederation (mn_hunnu_emp),mn_hunnu_emp,MnXngnM,P,Present,Inferred,False,True,False
+human_sacrifice,-205,-101,Post-Mauryan Kingdoms (in_post_mauryan_k),in_post_mauryan_k,InDecKg,A,Absent,Evidenced,False,True,False
+human_sacrifice,-202,9,Western Han Empire (cn_western_han_dyn),cn_western_han_dyn,CnWHan*,A,Absent,Inferred,False,True,False
+human_sacrifice,-200,-104,Seleucids (ir_seleucid_emp),ir_seleucid_emp,IrSeleu,A,Absent,Evidenced,False,True,False
+human_sacrifice,-174,-27,La Tene C2-D (fr_la_tene_c2_d),fr_la_tene_c2_d,FrTeneC,P,Present,Evidenced,False,True,False
+human_sacrifice,-150,299,Cahokia - Middle Woodland (us_woodland_2),us_woodland_2,USMisMW,A,Absent,Inferred,False,True,False
+human_sacrifice,-145,-96,Indo-Graeco-Phrygian Kingdom (pk_indo_greek_k),pk_indo_greek_k,PkIndGr,A,Absent,Evidenced,False,True,False
+human_sacrifice,-143,24,Parthian Empire I (ir_parthian_emp_1),ir_parthian_emp_1,IrPart1,A,Absent,Inferred,False,True,False
+human_sacrifice,-133,-29,Late Roman Republic (it_roman_rep_3),it_roman_rep_3,ItRomLR,P,Present,Evidenced,False,True,False
+human_sacrifice,-129,-95,Late Cappadocia (tr_cappadocia_2),tr_cappadocia_2,TrCappL,A,Absent,Inferred,False,True,False
+human_sacrifice,-129,29,Tocharians (af_tocharian),af_tocharian,AfTochr,A,Absent,Inferred,False,True,False
+human_sacrifice,-103,-62,Yehuda (il_judea),il_judea,IlJudea,A,Absent,Evidenced,False,True,False
+human_sacrifice,-100,199,Monte Alban II (mx_monte_alban_2),mx_monte_alban_2,MxAlb2*,P,Present,Evidenced,False,True,False
+human_sacrifice,-100,203,Satavahana Empire (in_satavahana_emp),in_satavahana_emp,InSataL,A,Absent,Evidenced,False,True,False
+human_sacrifice,-95,21,Parthian Empire I (ir_parthian_emp_1),ir_parthian_emp_1,IrPart1,A,Absent,Inferred,False,True,False
+human_sacrifice,-59,99,Late Xiongnu (mn_hunnu_late),mn_hunnu_late,MnXngnL,P,Present,Inferred,False,True,False
+human_sacrifice,-31,199,Roman Empire - Principate (it_roman_principate),it_roman_principate,ItRomPr,A~P,Transitional (Absent -> Present),Evidenced,False,True,False
+human_sacrifice,-31,199,Roman Empire - Principate (it_roman_principate),it_roman_principate,ItRomPr,A~P,Transitional (Absent -> Present),Evidenced,False,True,False
+human_sacrifice,-31,199,Roman Empire - Principate (it_roman_principate),it_roman_principate,ItRomPr,A~P,Transitional (Absent -> Present),Evidenced,False,True,False
+human_sacrifice,-31,283,Roman Empire - Principate (it_roman_principate),it_roman_principate,ItRomPr,A,Absent,Evidenced,False,True,False
+human_sacrifice,-31,283,Roman Empire - Principate (it_roman_principate),it_roman_principate,ItRomPr,A,Absent,Evidenced,False,True,False
+human_sacrifice,1,199,CuzcoLF,,CuzcoLF,A,Absent,Inferred,False,True,False
+human_sacrifice,25,215,Elymais II (it_elymais_2),it_elymais_2,IrElym2,A,Absent,Inferred,False,True,False
+human_sacrifice,25,219,Eastern Han Empire (cn_eastern_han_dyn),cn_eastern_han_dyn,CnEHan*,A,Absent,Evidenced,False,True,False
+human_sacrifice,30,230,Kushan Empire (af_kushan_emp),af_kushan_emp,AfKushn,A,Absent,Inferred,False,True,False
+human_sacrifice,30,250,Kushan Empire (af_kushan_emp),af_kushan_emp,AfKushn,A,Absent,Inferred,False,True,False
+human_sacrifice,50,399,Jenne-jeno II (ml_jenne_jeno_2),ml_jenne_jeno_2,MlJeJe2,U,Unknown,Evidenced,False,True,False
+human_sacrifice,100,250,Xianbei Confederation (mn_xianbei),mn_xianbei,MnXianb,A,Absent,Inferred,False,True,False
+human_sacrifice,200,283,Roman Empire - Principate (it_roman_principate),it_roman_principate,ItRomPr,A,Absent,Evidenced,False,True,False
+human_sacrifice,200,283,Roman Empire - Principate (it_roman_principate),it_roman_principate,ItRomPr,A,Absent,Evidenced,False,True,False
+human_sacrifice,200,284,Roman Empire - Principate (it_roman_principate),it_roman_principate,ItRomPr,A,Absent,Evidenced,False,True,False
+human_sacrifice,200,499,Monte Alban III (mx_monte_alban_3_a),mx_monte_alban_3_a,MxAlb3A,P,Present,Evidenced,False,True,False
+human_sacrifice,200,499,CuzcEI1,,CuzcEI1,A,Absent,Inferred,False,True,False
+human_sacrifice,220,498,Sasanid Empire I (ir_sassanid_emp_1),ir_sassanid_emp_1,IrSasn1,A,Absent,Inferred,False,True,False
+human_sacrifice,225,539,Funan I (kh_funan_1),kh_funan_1,KhFunaE,U,Unknown,Evidenced,False,True,True
+human_sacrifice,231,425,Sasanid Empire I (ir_sassanid_emp_1),ir_sassanid_emp_1,IrSasn1,A,Absent,Inferred,False,True,False
+human_sacrifice,250,537,Kansai - Kofun Period (jp_kofun),jp_kofun,JpKofun,A,Absent,Evidenced,True,,
+human_sacrifice,250,537,Kansai - Kofun Period (jp_kofun),jp_kofun,JpKofun,P,Present,Evidenced,True,,
+human_sacrifice,250,1049,Neguanje (co_neguanje),co_neguanje,CoNahua,A,Absent,Inferred,False,True,False
+human_sacrifice,251,495,Sasanid Empire I (ir_sassanid_emp_1),ir_sassanid_emp_1,IrSasn1,A,Absent,Inferred,False,True,False
+human_sacrifice,265,317,Western Jin (cn_western_jin_dyn),cn_western_jin_dyn,CnErJin,A,Absent,Evidenced,False,True,False
+human_sacrifice,284,394,Roman Empire - Dominate (it_roman_dominate),it_roman_dominate,TrRomDm,A,Absent,Evidenced,False,True,False
+human_sacrifice,284,394,Roman Empire - Dominate (it_roman_dominate),it_roman_dominate,TrRomDm,A,Absent,Evidenced,False,True,False
+human_sacrifice,284,394,Roman Empire - Dominate (it_roman_dominate),it_roman_dominate,TrRomDm,A,Absent,Evidenced,False,True,False
+human_sacrifice,284,457,Roman Empire - Dominate (it_roman_dominate),it_roman_dominate,TrRomDm,A,Absent,Evidenced,False,True,False
+human_sacrifice,285,394,Roman Empire - Dominate (it_roman_dominate),it_roman_dominate,TrRomDm,A,Absent,Evidenced,False,True,False
+human_sacrifice,286,335,Vakataka Kingdom (in_vakataka_k),in_vakataka_k,InVakat,A,Absent,Evidenced,False,True,False
+human_sacrifice,300,449,Cahokia - Late Woodland I (us_woodland_3),us_woodland_3,USMisRo,A,Absent,Inferred,False,True,False
+human_sacrifice,300,551,Rouran Khaganate (mn_rouran),mn_rouran,MnRourn,A,Absent,Inferred,False,True,False
+human_sacrifice,351,450,GapDec,,GapDec,A,Absent,Evidenced,False,True,False
+human_sacrifice,386,557,Northern Wei (cn_northern_wei_dyn),cn_northern_wei_dyn,CnNWei*,A,Absent,Evidenced,False,True,False
+human_sacrifice,395,457,Western Roman Empire - Late Antiquity (it_western_roman_emp),it_western_roman_emp,ItRomWe,A,Absent,Evidenced,False,True,False
+human_sacrifice,395,607,East Roman Empire (tr_east_roman_emp),tr_east_roman_emp,TrERom*,A,Absent,Evidenced,False,True,False
+human_sacrifice,395,632,East Roman Empire (tr_east_roman_emp),tr_east_roman_emp,TrERom*,A,Absent,Evidenced,False,True,False
+human_sacrifice,400,899,Jenne-jeno III (ml_jenne_jeno_3),ml_jenne_jeno_3,MlJeJe3,U,Unknown,Evidenced,False,True,False
+human_sacrifice,426,561,Hephtalites (af_hephthalite_emp),af_hephthalite_emp,AfHepht,A,Absent,Evidenced,True,,
+human_sacrifice,426,561,Hephtalites (af_hephthalite_emp),af_hephthalite_emp,AfHepht,P,Present,Evidenced,True,,
+human_sacrifice,450,599,Cahokia - Late Woodland II (us_woodland_4),us_woodland_4,USMisMu,A,Absent,Inferred,False,True,False
+human_sacrifice,451,540,Kadamba Empire (in_kadamba_emp),in_kadamba_emp,InKadam,A,Absent,Evidenced,False,True,False
+human_sacrifice,458,607,East Roman Empire (tr_east_roman_emp),tr_east_roman_emp,TrERom*,A,Absent,Evidenced,False,True,False
+human_sacrifice,481,542,Early Merovingian (fr_merovingian_emp_1),fr_merovingian_emp_1,FrMervE,A,Absent,Evidenced,False,True,False
+human_sacrifice,493,554,Ostrogothic Kingdom (it_ostrogoth_k),it_ostrogoth_k,ItOstrg,A,Absent,Evidenced,False,True,False
+human_sacrifice,496,531,Hephtalites (af_hephthalite_emp),af_hephthalite_emp,AfHepht,A,Absent,Evidenced,True,,
+human_sacrifice,496,531,Hephtalites (af_hephthalite_emp),af_hephthalite_emp,AfHepht,P,Present,Evidenced,True,,
+human_sacrifice,499,642,Sasanid Empire II (ir_sassanid_emp_2),ir_sassanid_emp_2,IrSasn2,A,Absent,Inferred,False,True,False
+human_sacrifice,500,649,CuzcEI2,,CuzcEI2,A,Absent,Inferred,False,True,False
+human_sacrifice,500,731,Kalinga Kingdom (id_kalinga_k),id_kalinga_k,IdKalin,A,Absent,Evidenced,True,,
+human_sacrifice,500,731,Kalinga Kingdom (id_kalinga_k),id_kalinga_k,IdKalin,P,Present,Evidenced,True,,
+human_sacrifice,500,899,Monte Alban IIIB and IV (mx_monte_alban_3_b_4),mx_monte_alban_3_b_4,MxAlb3B,P,Present,Evidenced,False,True,False
+human_sacrifice,532,641,Sasanid Empire II (ir_sassanid_emp_2),ir_sassanid_emp_2,IrSasn2,A,Absent,Inferred,False,True,False
+human_sacrifice,538,710,Asuka Kingdom (jp_asuka),jp_asuka,JpAsuka,A,Absent,Inferred,False,True,False
+human_sacrifice,540,639,Funan II (kh_funan_2),kh_funan_2,KhFunaL,U,Unknown,Evidenced,False,True,True
+human_sacrifice,541,756,Chalukyas of Badami (in_badami_chalukya_emp),in_badami_chalukya_emp,InChaBd,A,Absent,Evidenced,False,True,False
+human_sacrifice,543,686,Middle Merovingian (fr_merovingian_emp_2),fr_merovingian_emp_2,FrMervM,A,Absent,Evidenced,False,True,False
+human_sacrifice,564,603,Western Turk Khaganate (kg_eastern_turk_khaganate),kg_eastern_turk_khaganate,KgWTurk,P,Present,Inferred,False,True,False
+human_sacrifice,568,710,Exarchate of Ravenna (it_ravenna_exarchate),it_ravenna_exarchate,ItRav**,A,Absent,Evidenced,False,True,False
+human_sacrifice,581,617,Sui Dynasty (cn_sui_dyn),cn_sui_dyn,CnSui**,A,Absent,Evidenced,False,True,False
+human_sacrifice,583,630,Eastern Turk Khaganate (mn_turk_khaganate_1),mn_turk_khaganate_1,MnETurk,P,Present,Inferred,False,True,False
+human_sacrifice,600,749,Cahokia - Late Woodland III (us_woodland_5),us_woodland_5,USMisPa,A,Absent,Inferred,False,True,False
+human_sacrifice,604,711,Sogdiana - City-States Period (uz_sogdiana_city_states),uz_sogdiana_city_states,UzSogdi,A,Absent,Inferred,False,True,False
+human_sacrifice,618,762,Early Tang Dynasty (cn_tang_dyn_1),cn_tang_dyn_1,CnTangE,A,Absent,Evidenced,False,True,False
+human_sacrifice,632,823,Byzantine Empire I (tr_byzantine_emp_1),tr_byzantine_emp_1,TrByzM1,A,Absent,Evidenced,False,True,False
+human_sacrifice,632,866,Byzantine Empire I (tr_byzantine_emp_1),tr_byzantine_emp_1,TrByzM1,A,Absent,Evidenced,False,True,False
+human_sacrifice,650,999,Wari Empire (pe_wari_emp),pe_wari_emp,PeWari*,P,Present,Evidenced,False,True,False
+human_sacrifice,661,749,Ummayad Caliphate (sy_umayyad_cal),sy_umayyad_cal,SyCalUm,A,Absent,Evidenced,False,True,False
+human_sacrifice,663,749,Ummayad Caliphate (sy_umayyad_cal),sy_umayyad_cal,SyCalUm,A,Absent,Evidenced,False,True,False
+human_sacrifice,670,750,Ummayad Caliphate (sy_umayyad_cal),sy_umayyad_cal,SyCalUm,A,Absent,Evidenced,False,True,False
+human_sacrifice,684,744,Second Turk Khaganate (mn_turk_khaganate_2),mn_turk_khaganate_2,MnTurk2,P,Present,Inferred,False,True,False
+human_sacrifice,687,750,Proto-Carolingian (fr_merovingian_emp_3),fr_merovingian_emp_3,FrMervL,A,Absent,Evidenced,False,True,False
+human_sacrifice,711,903,Republic of St Peter I (it_st_peter_rep_1),it_st_peter_rep_1,ItStPet,A,Absent,Evidenced,False,True,False
+human_sacrifice,745,840,Uigur Khaganate (mn_uygur_khaganate),mn_uygur_khaganate,MnUigur,P,Present,Evidenced,True,,
+human_sacrifice,745,840,Uigur Khaganate (mn_uygur_khaganate),mn_uygur_khaganate,MnUigur,A,Absent,Evidenced,True,,
+human_sacrifice,750,861,Abbasid Caliphate I (iq_abbasid_cal_1),iq_abbasid_cal_1,IqAbbs1,A,Absent,Evidenced,False,True,False
+human_sacrifice,750,867,Abbasid Caliphate I (iq_abbasid_cal_1),iq_abbasid_cal_1,IqAbbs1,A,Absent,Evidenced,False,True,False
+human_sacrifice,750,875,Abbasid Caliphate I (iq_abbasid_cal_1),iq_abbasid_cal_1,IqAbbs1,A,Absent,Evidenced,False,True,False
+human_sacrifice,750,899,Cahokia - Emergent Mississippian I (us_emergent_mississippian_1),us_emergent_mississippian_1,USMisSp,A,Absent,Inferred,False,True,False
+human_sacrifice,750,946,Abbasid Caliphate I (iq_abbasid_cal_1),iq_abbasid_cal_1,IqAbbs1,A,Absent,Evidenced,False,True,False
+human_sacrifice,752,839,Carolingian Empire I (fr_carolingian_emp_1),fr_carolingian_emp_1,FrCarlE,A,Absent,Evidenced,False,True,False
+human_sacrifice,757,973,Rashtrakuta Empire (in_rashtrakuta_emp),in_rashtrakuta_emp,InRasht,A,Absent,Evidenced,False,True,False
+human_sacrifice,763,907,Later Tang Dynasty (cn_tang_dyn_2),cn_tang_dyn_2,CnTangL,A,Absent,Evidenced,False,True,False
+human_sacrifice,794,1184,Heian (jp_heian),jp_heian,JpHeian,A,Absent,Evidenced,False,True,False
+human_sacrifice,802,1079,Early Angkor (kh_angkor_1),kh_angkor_1,KhAngkE,P~A,Transitional (Present -> Absent),Evidenced,False,True,False
+human_sacrifice,824,960,The Emirate of Crete (gr_crete_emirate),gr_crete_emirate,GrCrEmr,A,Absent,Evidenced,False,True,False
+human_sacrifice,840,986,Carolingian Empire II (fr_carolingian_emp_2),fr_carolingian_emp_2,FrCarlL,A,Absent,Evidenced,False,True,False
+human_sacrifice,841,907,Shiwei (mn_shiwei),mn_shiwei,MnShiwe,U,Unknown,Evidenced,False,True,False
+human_sacrifice,862,1192,Sind - Abbasid-Fatimid Period (pk_sind_abbasid_fatimid),pk_sind_abbasid_fatimid,PkSind1,A,Absent,Evidenced,False,True,False
+human_sacrifice,867,1072,Bzyantine Empire II (tr_byzantine_emp_2),tr_byzantine_emp_2,TrByzM2,A,Absent,Evidenced,False,True,False
+human_sacrifice,868,908,Egypt - Tulunid-Ikhshidid Period (eg_thulunid_ikhshidid),eg_thulunid_ikhshidid,EgTulIk,A,Absent,Evidenced,False,True,False
+human_sacrifice,876,990,Samanid Empire (uz_samanid_emp),uz_samanid_emp,UzSamnd,A,Absent,Evidenced,False,True,False
+human_sacrifice,900,999,Jenne-jeno IV (ml_jenne_jeno_4),ml_jenne_jeno_4,MlJeJe4,U,Unknown,Evidenced,False,True,False
+human_sacrifice,900,1049,Cahokia - Emergent Mississippian II (us_emergent_mississippian_2),us_emergent_mississippian_2,USMisME,A,Absent,Inferred,False,True,False
+human_sacrifice,900,1520,MxAlb5*,,MxAlb5*,P,Present,Evidenced,False,True,False
+human_sacrifice,904,1197,Rome - Republic of St Peter II (it_st_peter_rep_2),it_st_peter_rep_2,ItPapEM,A,Absent,Evidenced,False,True,False
+human_sacrifice,909,1170,Fatimid Caliphate (tn_fatimid_cal),tn_fatimid_cal,TnFatim,A,Absent,Evidenced,False,True,False
+human_sacrifice,930,1000,Icelandic Commonwealth (is_icelandic_commonwealth),is_icelandic_commonwealth,IsCommw,P,Present,Evidenced,False,True,False
+human_sacrifice,947,1055,Buyid Confederation (ir_buyid_confederation),ir_buyid_confederation,IrBuyid,A,Absent,Evidenced,False,True,False
+human_sacrifice,960,1125,MnKhit2,,MnKhit2,P,Present,Evidenced,False,True,False
+human_sacrifice,960,1126,Northern Song (cn_northern_song_dyn),cn_northern_song_dyn,CnNSong,A,Absent,Evidenced,False,True,False
+human_sacrifice,961,1072,Bzyantine Empire II (tr_byzantine_emp_2),tr_byzantine_emp_2,TrByzM2,A,Absent,Evidenced,False,True,False
+human_sacrifice,974,1055,Chalukyas of Kalyani (in_kalyani_chalukya_emp),in_kalyani_chalukya_emp,InChaKl,A,Absent,Evidenced,False,True,False
+human_sacrifice,987,1149,Proto-French Kingdom (fr_capetian_k_1),fr_capetian_k_1,FrCaptE,A,Absent,Evidenced,False,True,False
+human_sacrifice,991,1089,Kara-Khanids (kg_kara_khanid_dyn),kg_kara_khanid_dyn,KgKarKh,A,Absent,Evidenced,False,True,False
+human_sacrifice,1000,1077,Middle Wagadu Empire (mr_wagadu_2),mr_wagadu_2,MrWagdM,P,Present,Evidenced,False,True,False
+human_sacrifice,1000,1199,Hawaii I (us_hawaii_1),us_hawaii_1,Hawaii1,A,Absent,Inferred,False,True,False
+human_sacrifice,1000,1249,CuzcLI1,,CuzcLI1,A,Absent,Inferred,False,True,False
+human_sacrifice,1001,1262,Icelandic Commonwealth (is_icelandic_commonwealth),is_icelandic_commonwealth,IsCommw,A,Absent,Evidenced,False,True,False
+human_sacrifice,1049,1222,Kediri Kingdom (id_kediri_k),id_kediri_k,IdKedir,P,Present,Inferred,False,True,False
+human_sacrifice,1050,1199,Cahokia - Lohman-Stirling (us_cahokia_1),us_cahokia_1,USCahoE,P,Present,Evidenced,False,True,False
+human_sacrifice,1050,1524,Tairona (co_tairona),co_tairona,CoTairo,A,Absent,Inferred,False,True,False
+human_sacrifice,1056,1190,Seljuk Empire (ir_seljuk_emp),ir_seljuk_emp,IrSeljq,A,Absent,Evidenced,False,True,False
+human_sacrifice,1073,1203,Byzantine Empire III (tr_byzantine_emp_3),tr_byzantine_emp_3,TrByzM3,A,Absent,Evidenced,False,True,False
+human_sacrifice,1080,1219,Classical Angkor (kh_angkor_2),kh_angkor_2,KhAngkC,A,Absent,Inferred,False,True,False
+human_sacrifice,1090,1157,Seljuk Empire (ir_seljuk_emp),ir_seljuk_emp,IrSeljq,A,Absent,Evidenced,False,True,False
+human_sacrifice,1093,1243,Rum Sultanate (tr_rum_sultanate),tr_rum_sultanate,TrRum**,A,Absent,Evidenced,False,True,False
+human_sacrifice,1100,1202,Later Wagadu Empire (mr_wagadu_3),mr_wagadu_3,MrWagdL,U,Unknown,Evidenced,False,True,False
+human_sacrifice,1126,1205,Early Mongols (mn_mongol_early),mn_mongol_early,MnMongE,P,Present,Evidenced,False,True,False
+human_sacrifice,1127,1234,Later Jin (cn_later_jin_dyn),cn_later_jin_dyn,CnLrJin,A,Absent,Evidenced,False,True,False
+human_sacrifice,1150,1327,French Kingdom - Late Capetian (fr_capetian_k_2),fr_capetian_k_2,FrCaptL,A,Absent,Evidenced,False,True,False
+human_sacrifice,1158,1212,Kara-Khanids (kg_kara_khanid_dyn),kg_kara_khanid_dyn,KgKarKh,A,Absent,Evidenced,False,True,False
+human_sacrifice,1171,1259,Ayyubid Sultanate (eg_ayyubid_sultanate),eg_ayyubid_sultanate,EgAyyub,A,Absent,Evidenced,False,True,False
+human_sacrifice,1185,1333,Kamakura Shogunate (jp_kamakura),jp_kamakura,JpKamak,A,Absent,Evidenced,False,True,False
+human_sacrifice,1191,1207,Abbasid Caliphate II (iq_abbasid_cal_2),iq_abbasid_cal_2,IqAbbs2,A,Absent,Evidenced,False,True,False
+human_sacrifice,1192,1253,Hoysala Kingdom (in_hoysala_k),in_hoysala_k,InHoysa,A,Absent,Evidenced,False,True,False
+human_sacrifice,1193,1206,Ghur Principality (af_ghurid_principality),af_ghurid_principality,AfGhurd,A,Absent,Evidenced,False,True,False
+human_sacrifice,1198,1308,Papal States - High Medieval Period (it_papal_state_1),it_papal_state_1,ItPapHM,A,Absent,Evidenced,False,True,False
+human_sacrifice,1200,1274,Cahokia - Moorehead (us_cahokia_2),us_cahokia_2,USCahoL,P,Present,Inferred,False,True,False
+human_sacrifice,1200,1349,Hawaii II (us_hawaii_2),us_hawaii_2,Hawaii2,A,Absent,Inferred,False,True,False
+human_sacrifice,1204,1669,GrCrVen,,GrCrVen,A,Absent,Evidenced,False,True,False
+human_sacrifice,1206,1367,Mongol Empire (mn_mongol_emp),mn_mongol_emp,MnMngKh,P,Present,Evidenced,False,True,False
+human_sacrifice,1207,1339,Delhi Sultanate (in_delhi_sultanate),in_delhi_sultanate,InDelh*,A,Absent,Evidenced,False,True,False
+human_sacrifice,1220,1431,Late Angkor (kh_angkor_3),kh_angkor_3,KhAngkL,A,Absent,Inferred,False,True,False
+human_sacrifice,1235,1410,Mali Empire (ml_mali_emp),ml_mali_emp,MlMali*,U,Unknown,Evidenced,False,True,False
+human_sacrifice,1250,1399,CuzcLI2,,CuzcLI2,A,Absent,Inferred,False,True,False
+human_sacrifice,1260,1347,Egypt - Mamluk Sultanate I (eg_mamluk_sultanate_1),eg_mamluk_sultanate_1,EgMamBh,A,Absent,Evidenced,False,True,False
+human_sacrifice,1263,1326,Ilkhanate (ir_il_khanate),ir_il_khanate,IrIlkhn,P,Present,Inferred,False,True,False
+human_sacrifice,1263,1335,Ilkhanate (ir_il_khanate),ir_il_khanate,IrIlkhn,A,Absent,Evidenced,False,True,False
+human_sacrifice,1263,1361,Chagatai Khanate (uz_chagatai_khanate),uz_chagatai_khanate,UzChagt,P,Present,Inferred,False,True,False
+human_sacrifice,1263,1380,Kingdom of Norway (no_norway_k),no_norway_k,NorKing,A,Absent,Evidenced,False,True,False
+human_sacrifice,1271,1367,Great Yuan (cn_yuan_dyn),cn_yuan_dyn,CnYuan*,P,Present,Inferred,False,True,False
+human_sacrifice,1275,1399,Cahokia - Sand Prairie (us_cahokia_3),us_cahokia_3,USMisSd,P,Present,Inferred,False,True,False
+human_sacrifice,1280,1310,Kampili Kingdom (in_kampili_k),in_kampili_k,InKampi,A,Absent,Evidenced,False,True,False
+human_sacrifice,1291,1518,Majapahit Kingdom (id_majapahit_k),id_majapahit_k,IdMajap,P,Present,Inferred,False,True,False
+human_sacrifice,1328,1449,French Kingdom - Early Valois (fr_valois_k_1),fr_valois_k_1,FrValoE,A,Absent,Evidenced,False,True,False
+human_sacrifice,1336,1466,Ashikaga Shogunate (jp_ashikaga),jp_ashikaga,JpAshik,A,Absent,Evidenced,False,True,False
+human_sacrifice,1337,1646,Vijayanagara Empire (in_vijayanagara_emp),in_vijayanagara_emp,InVijay,A,Absent,Evidenced,False,True,False
+human_sacrifice,1340,1519,Sind - Samma Dynasty (pk_samma_dyn),pk_samma_dyn,PkSind2,A,Absent,Evidenced,False,True,False
+human_sacrifice,1348,1411,Egypt - Mamluk Sultanate II (eg_mamluk_sultanate_2),eg_mamluk_sultanate_2,EgMamCP,A,Absent,Evidenced,False,True,False
+human_sacrifice,1350,1649,Hawaii II (us_hawaii_2),us_hawaii_2,Hawaii2,P,Present,Inferred,False,True,False
+human_sacrifice,1368,1463,Great Ming (cn_ming_dyn),cn_ming_dyn,CnMing*,P,Present,Evidenced,False,True,False
+human_sacrifice,1368,1580,Late Mongols (mn_mongol_late),mn_mongol_late,MnMongL,P,Present,Evidenced,False,True,False
+human_sacrifice,1370,1526,Timurid Empire (uz_timurid_emp),uz_timurid_emp,UzTimur,A,Absent,Evidenced,False,True,False
+human_sacrifice,1378,1526,Papal States - Renaissance Period (it_papal_state_2),it_papal_state_2,ItPapRn,A,Absent,Evidenced,False,True,False
+human_sacrifice,1393,1402,Ottoman Emirate (tr_ottoman_emirate),tr_ottoman_emirate,TrOttm1,A,Absent,Evidenced,False,True,False
+human_sacrifice,1394,1470,Timurid Empire (uz_timurid_emp),uz_timurid_emp,UzTimur,A,Absent,Evidenced,False,True,False
+human_sacrifice,1400,1531,Inca Empire (pe_inca_emp),pe_inca_emp,PeInca*,P,Present,Evidenced,False,True,False
+human_sacrifice,1400,1639,Oneota (us_oneota),us_oneota,USOneot,A,Absent,Inferred,False,True,False
+human_sacrifice,1400,1642,Sakha - Early (ru_sakha_early),ru_sakha_early,RuYakuE,P,Present,Evidenced,False,True,False
+human_sacrifice,1412,1516,Egypt - Mamluk Sultanate III (eg_mamluk_sultanate_3),eg_mamluk_sultanate_3,EgMamBu,A,Absent,Evidenced,False,True,False
+human_sacrifice,1421,1516,Ottoman Empire I (tr_ottoman_emp_1),tr_ottoman_emp_1,TrOttm2,A,Absent,Evidenced,False,True,False
+human_sacrifice,1432,1593,Khmer Kingdom (kh_khmer_k),kh_khmer_k,KhCambd,A,Absent,Inferred,False,True,False
+human_sacrifice,1450,1588,French Kingdom - Late Valois (fr_valois_k_2),fr_valois_k_2,FrValoL,A,Absent,Evidenced,False,True,False
+human_sacrifice,1464,1643,Great Ming (cn_ming_dyn),cn_ming_dyn,CnMing*,A,Absent,Evidenced,False,True,False
+human_sacrifice,1467,1567,Warring States Japan (jp_sengoku_jidai),jp_sengoku_jidai,JpSengk,A,Absent,Evidenced,False,True,False
+human_sacrifice,1471,1504,Ak Koyunlu (ir_ak_koynlu),ir_ak_koynlu,IrAkKoy,A,Absent,Evidenced,False,True,False
+human_sacrifice,1493,1590,Songhai Empire - Askiya Dynasty (ml_songhai_2),ml_songhai_2,MlSong2,U,Unknown,Evidenced,False,True,False
+human_sacrifice,1501,1701,Akan - Pre-Ashanti (gh_akan),gh_akan,GhAshnE,P,Present,Evidenced,False,True,False
+human_sacrifice,1505,1722,Safavid Empire (ir_safavid_emp),ir_safavid_emp,IrSafvd,A,Absent,Evidenced,False,True,False
+human_sacrifice,1517,1682,Ottoman Empire II (tr_ottoman_emp_2),tr_ottoman_emp_2,TrOttm3,A,Absent,Evidenced,False,True,False
+human_sacrifice,1517,1682,Ottoman Empire II (tr_ottoman_emp_2),tr_ottoman_emp_2,TrOttm3,A,Absent,Evidenced,False,True,False
+human_sacrifice,1521,1700,Spanish Empire I (es_spanish_emp_1),es_spanish_emp_1,EsHabsb,A,Absent,Evidenced,False,True,False
+human_sacrifice,1526,1740,Mughal Empire (in_mughal_emp),in_mughal_emp,InMugl*,A,Absent,Evidenced,False,True,False
+human_sacrifice,1527,1647,Papal States - Medieval Period I (it_papal_state_3),it_papal_state_3,ItPapM1,A,Absent,Evidenced,False,True,False
+human_sacrifice,1532,1700,Spanish Empire I (es_spanish_emp_1),es_spanish_emp_1,EsHabsb,A,Absent,Evidenced,False,True,False
+human_sacrifice,1534,1830,Shuar - Colonial (ec_shuar_1),ec_shuar_1,EcJivaE,A,Absent,Inferred,False,True,False
+human_sacrifice,1566,1713,Haudenosaunee Confederacy - Early (us_haudenosaunee_1),us_haudenosaunee_1,UsIroqE,P,Present,Evidenced,False,True,False
+human_sacrifice,1568,1602,Japan - Azuchi‚ÄìMomoyama (jp_azuchi_momoyama),jp_azuchi_momoyama,JpAzMom,A,Absent,Evidenced,False,True,False
+human_sacrifice,1568,1703,Mataram Kingdom (id_mataram_k),id_mataram_k,IdMatrm,A,Absent,Evidenced,False,True,True
+human_sacrifice,1581,1689,Late Mongols (mn_mongol_late),mn_mongol_late,MnMongL,A,Absent,Evidenced,False,True,False
+human_sacrifice,1589,1659,French Kingdom - Early Bourbon (fr_bourbon_k_1),fr_bourbon_k_1,FrBurbE,A,Absent,Evidenced,False,True,False
+human_sacrifice,1591,1618,Saadi Sultanate (ma_saadi_sultanate),ma_saadi_sultanate,MaSaadi,U,Unknown,Evidenced,False,True,False
+human_sacrifice,1594,1767,Ayutthaya (th_ayutthaya),th_ayutthaya,ThAyuth,A,Absent,Inferred,False,True,False
+human_sacrifice,1599,1747,Khanate of Bukhara (uz_janid_dyn),uz_janid_dyn,UzJanid,A,Absent,Evidenced,False,True,False
+human_sacrifice,1603,1868,Tokugawa Shogunate (jp_tokugawa_shogunate),jp_tokugawa_shogunate,JpTokgw,A,Absent,Evidenced,False,True,False
+human_sacrifice,1637,1805,Yemen - Qasimid Dynasty (ye_qasimid_dyn),ye_qasimid_dyn,YeQasmi,A,Absent,Evidenced,False,True,False
+human_sacrifice,1640,1711,Segou Kingdom (ml_segou_k),ml_segou_k,MlSegou,P,Present,Inferred,False,True,False
+human_sacrifice,1640,1832,Early Illinois Confederation (us_early_illinois_confederation),us_early_illinois_confederation,USIllin,A,Absent,Inferred,False,True,False
+human_sacrifice,1643,1900,Sakha - Late (ru_sakha_late),ru_sakha_late,RuYakuL,A,Absent,Evidenced,False,True,False
+human_sacrifice,1644,1795,Early Qing (cn_qing_dyn_1),cn_qing_dyn_1,CnQingE,A,Absent,Evidenced,False,True,False
+human_sacrifice,1648,1800,Papal States - Medieval Period II (it_papal_state_4),it_papal_state_4,ItPapM2,A,Absent,Evidenced,False,True,False
+human_sacrifice,1650,1777,Hawaii III (us_hawaii_3),us_hawaii_3,Hawaii3,P,Present,Evidenced,False,True,False
+human_sacrifice,1650,1841,Iban - Pre-Brooke (id_iban_1),id_iban_1,IdBrokE,P,Present,Inferred,False,True,False
+human_sacrifice,1660,1788,French Kingdom - Late Bourbon (fr_bourbon_k_2),fr_bourbon_k_2,FrBurbL,A,Absent,Evidenced,False,True,False
+human_sacrifice,1683,1838,Ottoman Empire III (tr_ottoman_emp_3),tr_ottoman_emp_3,TrOttm4,A,Absent,Evidenced,False,True,False
+human_sacrifice,1683,1839,Ottoman Empire III (tr_ottoman_emp_3),tr_ottoman_emp_3,TrOttm4,A,Absent,Evidenced,False,True,False
+human_sacrifice,1687,1720,Mughal Empire (in_mughal_emp),in_mughal_emp,InMugl*,A,Absent,Evidenced,False,True,False
+human_sacrifice,1695,1745,Zungharian Empire (mn_zungharian_emp),mn_zungharian_emp,MnZungh,A,Absent,Inferred,False,True,False
+human_sacrifice,1701,1895,Hmong - Late Qing (cn_hmong_1),cn_hmong_1,CnHQngL,A,Absent,Inferred,False,True,False
+human_sacrifice,1702,1895,Ashanti Empire (gh_ashanti_emp),gh_ashanti_emp,GhAshnL,P,Present,Evidenced,False,True,False
+human_sacrifice,1712,1818,Bamana kingdom (ml_bamana_k),ml_bamana_k,MlBaman,P,Present,Inferred,False,True,False
+human_sacrifice,1714,1848,Haudenosaunee Confederacy - Late (us_haudenosaunee_2),us_haudenosaunee_2,UsIroqL,P~A,Transitional (Present -> Absent),Evidenced,False,True,False
+human_sacrifice,1734,1883,Orokaiva - Pre-Colonial (pg_orokaiva_pre_colonial),pg_orokaiva_pre_colonial,PgOrokE,A,Absent,Inferred,False,True,False
+human_sacrifice,1748,1826,Durrani Empire (af_durrani_emp),af_durrani_emp,AfDurrn,A,Absent,Evidenced,False,True,False
+human_sacrifice,1775,1867,Early Garo (in_achik_1),in_achik_1,InGaroE,P,Present,Evidenced,False,True,False
+human_sacrifice,1775,1885,Chuuk - Early Truk (fm_truk_1),fm_truk_1,FmTrukE,P,Present,Inferred,False,True,False
+human_sacrifice,1778,1803,Kingdom of Hawaii - Kamehameha Period (us_kamehameha_k),us_kamehameha_k,USKameh,P,Present,Evidenced,False,True,False
+human_sacrifice,1782,1873,Rattanakosin (th_rattanakosin),th_rattanakosin,ThRattn,A,Absent,Inferred,False,True,False
+human_sacrifice,1794,1925,Qajar (ir_qajar_dyn),ir_qajar_dyn,IrQajar,A,Absent,Evidenced,False,True,False
+human_sacrifice,1796,1912,Late Qing (cn_qing_dyn_2),cn_qing_dyn_2,CnQingL,A,Absent,Evidenced,False,True,False
+human_sacrifice,1800,1857,InEInCo,,InEInCo,A,Absent,Evidenced,False,True,False
+human_sacrifice,1800,1857,InEInCo,,InEInCo,A,Absent,Evidenced,False,True,False
+human_sacrifice,1804,1819,Kingdom of Hawaii - Kamehameha Period (us_kamehameha_k),us_kamehameha_k,USKameh,A,Absent,Evidenced,False,True,False
+human_sacrifice,1820,1854,Kingdom of Hawaii - Post-Kamehameha Period (us_hawaii_k),us_hawaii_k,USHawai,A,Absent,Evidenced,False,True,False
+human_sacrifice,1831,1931,Shuar - Ecuadorian (ec_shuar_2),ec_shuar_2,EcJivaL,A,Absent,Inferred,False,True,False
+human_sacrifice,1839,1922,Ottoman Empire IV (tr_ottoman_emp_4),tr_ottoman_emp_4,TrOttm5,A,Absent,Evidenced,False,True,False
+human_sacrifice,1842,1899,Iban - Brooke Raj and Colonial (id_iban_2),id_iban_2,IdBrokL,P,Present,Inferred,False,True,False
+human_sacrifice,1858,1946,InBritP,,InBritP,A,Absent,Evidenced,False,True,False
+human_sacrifice,1868,1956,InBritP,,InBritP,A,Absent,Evidenced,False,True,False
+human_sacrifice,1873,1919,Ottoman Empire IV (tr_ottoman_emp_4),tr_ottoman_emp_4,TrOttm5,A,Absent,Evidenced,False,True,False
+human_sacrifice,1884,1942,Orokaiva - Colonial (pg_orokaiva_colonial),pg_orokaiva_colonial,PgOrokL,A,Absent,Inferred,False,True,False
+human_sacrifice,1886,1948,Chuuk - Late Truk (fm_truk_2),fm_truk_2,FmTrukL,P,Present,Inferred,False,True,False
+human_sacrifice,1896,1941,Hmong - Early Chinese (cn_hmong_2),cn_hmong_2,CnHChin,A,Absent,Inferred,False,True,False
+human_sacrifice,1900,1949,Iban - Brooke Raj and Colonial (id_iban_2),id_iban_2,IdBrokL,P~A,Transitional (Present -> Absent),Evidenced,False,True,False
+human_sacrifice,1950,1987,Iban - Brooke Raj and Colonial (id_iban_2),id_iban_2,IdBrokL,A,Absent,Evidenced,False,True,False

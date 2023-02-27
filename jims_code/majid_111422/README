@@ -1,0 +1,110 @@
+These two python3 scripts take exported xml files from the wiki and
+either 'strip' certain lines out (ss_vars2.py) to form a reduced xml
+file for loading into the 'data browser' wiki or form a csv file
+(csv.py) for data analysis.
+
+In the typical run we first export an xml off the main wiki with the
+polity pages to go to the data browser, then run:
+
+>> python3 ss_vars2.py seshat.info-20201103221444.xml
+
+This will generate a file named seshat.info-20201103221444_stripped.xml  
+that can be imported in the the data brower site.  There are several
+optional reports the script can generate (all to stdout) according to
+various options:
+
+>> python3 ss_vars2.py --help
+usage: ss_vars2.py [-h] [-s] [-p] [-v] [-u] [-l] [-x] xml_filename
+
+Strip a Seshat xml file
+
+positional arguments:
+  xml_filename  The xml file to strip
+
+optional arguments:
+  -h, --help    show this help message and exit
+  -s            Report structure
+  -p            Report variable sections
+  -v            Report variables
+  -u            Report unique values
+  -l            Report line numbers
+  -x            Strip <span> styles
+
+So for example I might typically run it as:
+
+>> python3 ss_vars2.py  -u seshat.info-20201103221444.xml > seshat.info-20201103221444.txt
+
+which generates the stripped file as usual but also captures the
+report of unique variable values in the associated txt file.
+
+Generating a csv data file is similiar:
+
+>> python3 csv.py  -u seshat.info-20201103221444.xml >  seshat.info-20201103221444_csv.txt
+
+generates the file seshat.info-20201103221444.csv file and emits a
+report to stdout, here of the unique values.  There are several
+options for generating csv files with different data included:
+
+>> python3 csv.py --help
+usage: csv.py [-h] [-d quoted character] [-e] [-u] [-nl] [-D] [-X] [-V variables file] filename
+
+Prepare a Seshat csv files from an xml file
+
+positional arguments:
+  filename             The xml file
+
+optional arguments:
+  -h, --help           show this help message and exit
+  -d quoted character  Alternate delimiter character
+  -e                   Emit empty variables
+  -u                   Report unique values
+  -nl                  Do not report line numbers in csv
+  -D                   Include descriptions
+  -X                   Include multi-line descriptions
+  -V variables file    File with variable names
+
+
+Typically I emit in the 'Notes' column of the spreadsheet the
+corresponding line number in the xml that the data came from.  This is
+very helpful in understanding where various problems are found in the
+xml (and hence in the wiki).  For csv files that are eventually meant
+for public consumption I run with -nl.
+
+The -D (or -X) option tries to include the text descriptions that sometimes
+follow the variable/value pairs in the wiki.  Generates very big csv
+files (and if the value has multiple values, since those are spread to
+multiple lines in the csv file, many copies of the same
+description...one per line). 
+
+The typical (default) delimiter in the generated csv is the comma.
+However, for releases we use '|'.  To change this use -d '|'.  If you
+use another character, for example, a semicolon (-d ';') beware: any
+values or descriptions etc. that use that character that will mess
+with the format!
+
+The -V option allows you to provide a text file of variable names, one
+per line, of only the variables to include.  Alternatively you can run
+the whole thing and then later extract the lines you want using
+something like egrep with a complicated expression like:
+
+egrep -e '(General variables,,Duration|Macrostate name|Macrostate shapefiles)' seshat.info-20201103221444.csv > MS.csv
+
+
+
+Notes on importing and exporting:
+
+As a mentioned you can use categories to select pages (polities) to
+export, a nice convenience.  However if you are just patching some
+files you can enter those pages by hand and just deal with that
+subset. 
+
+If you want to import things back to the main wiki (so no stripping)
+you must remove the <timestamp> lines in the xml file; this causes the
+wiki code to 'add' a new edited entry for each page it encounters with
+a new timestamp.  Don't worry about byte counts or sha1
+checksums...those are not checked when importing.
+
+Finally sometimes the main wiki server is slow and can choke or
+timeout importing a very large xml file.  In this case I break it up
+into several smaller files, taking care to add the stock xml prefix and
+suffix lines found in the main files to each of the subsets.
